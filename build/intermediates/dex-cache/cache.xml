@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="025b10c21318b07f89f88833d3773d43549e8ad4">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2849c34bb880ded832fa94fe0e66a3922b7ade93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/AndroidStudio/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_ac73f69fe9b7a273d0e34a5f182647d7e13bee14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_bb232af054053807899c5a56385a1a6af487941c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a884d6c27fbb8c808005fcd0d7a222f2a08234b8">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb973ef3c3531ee2b2df0ed35c4420a75811f13e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_5ba425490e923061fb75b4b18b9f19e5ed9b1d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/media/joaobarbosa/HDD/joaobarbosa/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_12b789298ffc90526542b369206490e8f3a3c519/classes.dex" />
+    </item>
+
+</items>
